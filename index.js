@@ -1,4 +1,4 @@
-import { Teacher } from "./teacher.js";
+import { Teacher } from "./teacher";
 const jobs = [
     {id:1, isActive: true},
     {id:2, isActive: false},
